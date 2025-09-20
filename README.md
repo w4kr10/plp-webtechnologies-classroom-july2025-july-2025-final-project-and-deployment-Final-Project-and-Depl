@@ -26,3 +26,10 @@ This project replicates a **Typical modern website** landing page
 
 
 ## 📁 Deployment links
+
+GIT PAGES
+https://w4kr10.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+
+
+## NETLIFY LINK
+https://agent-xx.netlify.app/
